@@ -77,7 +77,7 @@ const galang = {
 | 🏅 Project | 📋 Description | 🛠️ Stack |
 |---|---|---|
 | [**🍱 Web E-Kantin Smecone**](https://github.com/Radiant213/web-kantin-smecone) | Sistem manajemen dan pemesanan e-kantin tingkat sekolah. Disusun untuk membantu melancarkan transaksi makanan kantin secara digital dengan integrasi *database cloud* Aiven. | `Next.js` `Laravel` `MySQL Cloud` |
-| [**🔮 Premium Web Portofolio (Soon)**](https://github.com/Radiant213) | Web portofolio interaktif bergaya Premium Dark Glassmorphism, menampilkan fitur *showcase* per proyek otomatis secara responsif (*Live View*). | `Next.js` `Tailwind` `CSS` |
+| [**🔮 Premium Web Portofolio (Soon)**](https://github.com/Radiant213/portofolio) | Web portofolio interaktif bergaya Premium Dark Glassmorphism, menampilkan fitur *showcase* per proyek otomatis secara responsif (*Live View*). | `Next.js` `Tailwind` `CSS` |
 
 </div>
 
