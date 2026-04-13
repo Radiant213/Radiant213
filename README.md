@@ -112,6 +112,7 @@ const galang = {
 
 ### 🤝 Let's Connect & Collaborate!
 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galang-m-sherinian-a201a63b1)
 [![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galangmaruff1@gmail.com)
 
 <br/>
