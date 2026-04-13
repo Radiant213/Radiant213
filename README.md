@@ -56,12 +56,15 @@ const galang = {
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Databases & Utilities
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-FF003A?style=for-the-badge&logo=aiven&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
@@ -91,12 +94,16 @@ const galang = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Radiant213&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiant213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  
+  ![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radiant213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radiant213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Radiant213&theme=tokyonight&hide_border=true&background=0D1117" />
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Radiant213&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
