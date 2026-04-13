@@ -95,8 +95,8 @@ const galang = {
 
 <div align="center">
   
-  ![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radiant213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radiant213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+  ![Galang's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Radiant213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+  ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Radiant213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
